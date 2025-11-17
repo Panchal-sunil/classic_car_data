@@ -1,4 +1,4 @@
-**Classic Model Sales Dashboard (Power BI)**
+**Classic Car Model Sales Dashboard (Power BI)**
 
 📌 Project Overview
 
